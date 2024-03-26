@@ -1,4 +1,4 @@
-# Hi there, I'm [Veronika](https://t.me/shunper)
+# Hi there, I'm [Veronika]
 
 ![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=verniey&theme=solarized_dark)
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=verniey&theme=solarized_dark)

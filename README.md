@@ -5,5 +5,4 @@
 ![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=verniey&theme=solarized_dark)
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=verniey&theme=solarized_dark)
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=verniey&theme=solarized_dark)
-![GitHub Activity](https://github-profile-summary-cards.vercel.app/api/cards/activity?username=verniey&theme=solarized_dark)
-![Commit Graph](https://github-profile-summary-cards.vercel.app/api/cards/commit-graph?username=verniey&theme=solarized_dark)
+![Repositories](https://github-profile-summary-cards.vercel.app/api/cards/repos?username=verniey&theme=solarized_dark)
